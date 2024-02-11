@@ -1,0 +1,10 @@
+requests
+streamlit
+PyPDF2
+langchain
+openai
+python-dotenv
+langchain_openai
+pypdf
+langchain_community
+chromadb
